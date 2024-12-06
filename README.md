@@ -36,14 +36,7 @@ OpenProject is an open-source project management software designed to provide or
 
 ### OPEN PROJECT DEMO VIDEO
 
-<a href="https://www.kaggle.com/datasets/arnavsmayan/online-retail-sales-dataset">Dataset Link</a>
 
 
-<br>
-<br>
+<a href="[https://www.kaggle.com/datasets/arnavsmayan/online-retail-sales-dataset](https://www.openproject.org/docs/installation-and-operations/installation/docker/)">Dataset Link</a>
 
-
-
-     **Query:** <i>select (“totalamount”),(“time”) from “data”</i>
-
-     <b>Insights:</b>  The graph displays fluctuating revenue over time, indicating variability in transaction amounts driven by factors like customer behavior or product categories. Peaks in revenue suggest high-value purchases or promotional periods, while red markers likely highlight anomalies or predefined thresholds. These insights help identify sales trends, monitor performance, and detect unusual activity for further analysis.
